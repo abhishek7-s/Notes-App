@@ -5,6 +5,7 @@ This is a full-stack notes application built for a backend developer internship 
 ## Live Demo & Video
 
 * **Live Application:** [**https://setnotes.vercel.app/**](https://setnotes.vercel.app/)
+    * **Note:** The backend is deployed on Render's free tier, so the initial load for API requests might experience a slight delay while the service spins up from inactivity.
 * **Demo Video:** [**Watch on YouTube**](https://youtu.be/15n3Vd1tAJc)
 
 
@@ -74,7 +75,7 @@ Follow these instructions to get the project running on your local machine.
     ```bash
     npm run start:dev
     ```
-    The backend will be running on `http://localhost:3000`.
+    The backend will be running on `http://localhost:3001`.
 
 ### 2. Frontend Setup (`/frontend`)
 
@@ -107,7 +108,7 @@ Follow these instructions to get the project running on your local machine.
     ```bash
     npm run dev
     ```
-    The frontend will be running on `http://localhost:3001`.
+    The frontend will be running on `http://localhost:3000`.
 
 ---
 
